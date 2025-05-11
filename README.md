@@ -1,22 +1,24 @@
-# Projeto 1 – Sistema de Cadastro
+# 📚 Portfólio Acadêmico – Enzo M4ttiola
 
-## 📄 Descrição
-Este é um sistema básico de cadastro desenvolvido como parte das atividades do curso de Desenvolvimento Web.
+Bem-vindo ao meu portfólio acadêmico! Aqui você encontrará alguns dos meus projetos desenvolvidos durante minha trajetória de estudos e também projetos pessoais que demonstram minhas habilidades em desenvolvimento e versionamento de código.
 
-## 🚀 Funcionalidades
-- Cadastro de usuários
-- Listagem de usuários
-- Exclusão de usuários
+## 🎯 Objetivo
+Organizar meus projetos de forma clara e documentada, utilizando boas práticas de Git e GitHub, para fins de aprendizado, colaboração e desenvolvimento profissional.
 
-## 🛠 Tecnologias
-- HTML
-- CSS
-- JavaScript
+## 📁 Projetos
 
-## 💻 Como Executar
-1. Clone o repositório
-2. Navegue até a pasta `projeto-1`
-3. Abra o arquivo `index.html` no navegador
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [`projeto-1`](./projeto-1) | Sistema de Cadastro de Usuários | HTML, CSS, JavaScript |
+| [`projeto-2`](./projeto-2) | Calculadora simples em Python | Python |
+| [`projeto-3`](./projeto-3) | Página Web Pessoal com GitHub Pages | HTML, CSS |
 
-## 👨‍💻 Autor
-Seu Nome – Enzo Ferreira Mattiola
+## 🌐 Integração com LinkedIn
+Os projetos deste repositório também estão destacados no meu perfil profissional do [LinkedIn](https://linkedin.com/in/seuusuario). Convido você a visitar!
+
+## 👨‍💻 Sobre mim
+Sou estudante de Ciencia Da Computaçao com foco em desenvolvimento web e aplicações. Gosto de aprender coisas novas, praticar em projetos e colaborar com colegas.
+
+---
+
+🛠️ *Este repositório está em constante atualização*
